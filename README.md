@@ -21,6 +21,7 @@ npm install
 #### Run server
 ```
 cd server
+npm install
 node server.js
 ```
 
